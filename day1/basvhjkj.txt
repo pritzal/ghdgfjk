@@ -1,0 +1,45 @@
+1. **Variables:**
+    - Variables are used to store data values.
+    - You can assign a value to a variable using the **`=`** operator.
+    
+    ```python
+    
+    x = 5
+    name = "John"
+    
+    ```
+    
+2. **Data Types:**
+    - Python has several built-in data types, including:
+        - **int:** Integer values (**`1`**, **`42`**, **`10`**)
+        - **float:** Floating-point or decimal values (**`3.14`**, **`2.0`**, **`0.5`**)
+        - **str:** String, a sequence of characters (**`"Hello"`**, **`'Python'`**)
+        - **bool:** Boolean, representing **`True`** or **`False`**
+    
+    ```python
+    
+    age = 25
+    height = 6.2
+    message = "Hello, World!"
+    is_adult = True
+    
+    ```
+    
+3. **Keywords:**
+    - Keywords are reserved words that have special meanings in Python.
+    - Examples include **`if`**, **`else`**, **`while`**, **`for`**, **`def`**, **`class`**, etc.
+4. **Literals:**
+    - Literals are the raw data used to represent values.
+    - Examples include numeric literals (**`42`**, **`3.14`**), string literals (**`"Hello"`**), and boolean literals (**`True`**, **`False`**).
+5. **Operators:**
+    - **Arithmetic Operators:** **`+`**, **``**, **``**, **`/`**, **`//`** (floor division), **`%`** (modulo)
+    - **Comparison Operators:** **`==`**, **`!=`**, **`<`**, **`>`**, **`<=`**, **`>=`**
+    - **Logical Operators:** **`and`**, **`or`**, **`not`**
+    - **Assignment Operators:** **`=`**, **`+=`**, **`=`**, **`=`**, **`/=`**
+    
+    ```python
+    
+    result = 10 + 5
+    is_equal = (x == 5)
+    
+    ```
